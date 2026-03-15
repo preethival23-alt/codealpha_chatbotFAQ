@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What is your return policy?",
+    "answer": "You can return products within 30 days of purchase."
+  },
+  {
+    "question": "How can I track my order?",
+    "answer": "You can track your order from the orders section in your account."
+  },
+  {
+    "question": "Do you offer international shipping?",
+    "answer": "Yes, we ship products worldwide."
+  },
+  {
+    "question": "How can I contact customer support?",
+    "answer": "You can contact us via email at support@example.com."
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": "We accept credit cards, debit cards, and PayPal."
+  }
+]
